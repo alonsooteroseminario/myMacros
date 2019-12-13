@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>LAOS my Macro</Name>
+    <Assembly>myMacros.dll</Assembly>
+    <AddInId>ceabcb65-80e2-4eab-99b8-c117f197e356</AddInId>
+    <FullClassName>myMacros.App</FullClassName>
+    <Text>LAOS Addin</Text>
+    <VendorId>LAOS</VendorId>
+    <VendorDescription>Luis Alonso Otero Seminario, www.dynoscript.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
